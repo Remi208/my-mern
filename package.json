@@ -1,0 +1,34 @@
+{
+  "name": "my-mern",
+  "version": "1.0.0",
+  "description": "mern pkg",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Remi208/my-mern.git"
+  },
+  "keywords": [
+    "mern",
+    "react"
+  ],
+  "author": "remi208",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Remi208/my-mern/issues"
+  },
+  "homepage": "https://github.com/Remi208/my-mern#readme",
+  "dependencies": {
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.17"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
+  }
+}
