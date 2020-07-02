@@ -1,5 +1,5 @@
 {
-  "port": 3000,
+  "port": 5000,
   "mongoUri": "mongodb+srv://remi208:qwertz@cluster0-nw2fs.azure.mongodb.net/app?retryWrites=true&w=majority",
   "jwtSecret": "remi208 jwt secret"
 }
